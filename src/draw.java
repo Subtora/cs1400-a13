@@ -15,7 +15,6 @@ public class draw{
     public draw(){
         setupFrame();
         setupPanels();
-        //setupButtons();
         frame.setVisible(true);
     }
 
