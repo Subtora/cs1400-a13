@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3713691-a3bd-4271-a65b-c3e8ee784c8e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/PaintPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PaintPanel.java" afterDir="false" />
-    </list>
+    <list default="true" id="e3713691-a3bd-4271-a65b-c3e8ee784c8e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,8 +37,8 @@
       <file leaf-file-name="PaintPanel.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/PaintPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+            <state relative-caret-position="357">
+              <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#962#963#0" expanded="true" />
@@ -86,7 +84,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-15" />
     <option name="y" value="-15" />
     <option name="width" value="1948" />
@@ -288,8 +286,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PaintPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        <state relative-caret-position="357">
+          <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#962#963#0" expanded="true" />
